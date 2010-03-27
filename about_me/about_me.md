@@ -8,5 +8,12 @@
 
 ##Twitter: [@jdirt](http://twitter.com/jdirt "My Twitter page")
 
-##Github: [jderrett](http://github.com/jderrett "My github page")
+!SLIDE
+# My Shady Past
+## SQL Server (started in 1998)
+## Batch, set-based processing stuff
+
+!SLIDE
+# Present
+## Ruby/Rails/MySQL/MongoDB - last couple of years
 
