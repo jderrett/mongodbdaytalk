@@ -2,4 +2,7 @@
 #Thanks!
 ##jason@squeejee.com
 ##[@jdirt](http://twitter.com/jdirt)
-### [http://github.com/jderrett/mongodbdaytalk](http://github.com/jderrett/mongodbdaytalk)
+
+###This presentation was made with Showoff
+### Showoff: [http://github.com/schacon/showoff](http://github.com/schacon/showoff)
+### This talk: [http://github.com/jderrett/mongodbdaytalk](http://github.com/jderrett/mongodbdaytalk)
