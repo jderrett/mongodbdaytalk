@@ -24,11 +24,20 @@
 * It runs on everything
 * It connects with everything
 * Lots of devs involved (that's us!)
+* It's friggin' PRODUCTIVE
 
 !SLIDE bullets incremental transition=blindY
 # Other reasons
 
 * It can act like a document database (i.e. structure is arbitrary)
-* It can act like a relational database (i.e. "child" objects)
+* It can act like a relational database (i.e. "child" objects or MongoMapper Embedded Doc)
 * You can query it all sorts of ways (like regexes!)
+
+!SLIDE bullets incremental transition=blindY
+# Other other reasons
+
+* Databases on the fly!
+* Collections on the fly!
+* Queries on the fly (i.e. no predefined "views")!
 * It replicates!
+
