@@ -22,6 +22,7 @@
 # Why MongoDB is awesome
 * It's easy to install
 * It runs on everything
+* It connects with everything
 * Lots of devs involved (that's us!)
 
 !SLIDE bullets incremental transition=blindY
