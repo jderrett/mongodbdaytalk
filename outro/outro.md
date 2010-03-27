@@ -1,2 +1,4 @@
 !SLIDE
-#Thanks
+#Thanks!
+##jason@squeejee.com
+##@jdirt

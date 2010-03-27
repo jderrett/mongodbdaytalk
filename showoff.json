@@ -1,5 +1,9 @@
 [ 
+  {"section":"cover"},
   {"section":"about_me"},
+  {"section":"intro"},
   {"section":"whatissql"},
+  {"section":"replication"},
+  {"section":"mongohub_demo"},
   {"section":"outro"}
 ]
