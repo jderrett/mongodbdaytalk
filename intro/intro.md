@@ -23,8 +23,8 @@
 * It's easy to install
 * It runs on everything
 * It connects with everything
-* Lots of devs involved (that's us!)
-* It's friggin' PRODUCTIVE
+* Lots of devs involved (that's us)
+* Documentation exists!
 
 !SLIDE bullets incremental transition=blindY
 # Other reasons
@@ -32,12 +32,13 @@
 * It can act like a document database (i.e. structure is arbitrary)
 * It can act like a relational database (i.e. "child" objects or MongoMapper Embedded Doc)
 * You can query it all sorts of ways (like regexes!)
+* It's PRODUCTIVE
 
 !SLIDE bullets incremental transition=blindY
 # Other other reasons
 
-* Databases on the fly!
-* Collections on the fly!
+* Databases on the fly! (signups / subdomains)
+* Collections on the fly! (no need to migrate)
 * Queries on the fly (i.e. no predefined "views")!
 * It replicates!
 
