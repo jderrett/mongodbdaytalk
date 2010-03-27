@@ -1,5 +1,5 @@
 !SLIDE bullets incremental transition=blindY
-# Why mongo is awesome
+# Why MongoDB is awesome
 * It's easy to install
 
 !SLIDE commandline incremental
@@ -22,11 +22,11 @@
 # Why MongoDB is awesome
 * It's easy to install
 * It runs on everything
-* The documentation exists
+* Lots of devs involved (that's us!)
 
 !SLIDE bullets incremental transition=blindY
 # Other reasons
 
-* It can act like a document database
-* It can act like a relational database
+* It can act like a document database (i.e. structure is arbitrary)
+* It can act like a relational database (i.e. "child" objects)
 * It replicates!
