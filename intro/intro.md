@@ -30,4 +30,5 @@
 
 * It can act like a document database (i.e. structure is arbitrary)
 * It can act like a relational database (i.e. "child" objects)
+* You can query it all sorts of ways (like regexes!)
 * It replicates!
