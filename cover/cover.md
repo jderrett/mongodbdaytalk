@@ -1,5 +1,5 @@
 !SLIDE
-# MongoDB Replication Intro
+# MongoDB Replication Demo
 ## MongoDB Day - Austin
 ## [@cospace](http://twitter.com/cospace) [http://cospaceatx.com](http://cospaceatx.com)
 ## March 26, 2010
